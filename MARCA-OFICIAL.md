@@ -1,0 +1,1 @@
+A marca e o logo não podem ser alterados. Cabeçalho, rodapé e favicon usam o arquivo oficial exato enviado pelo cliente, sem redesenho, recorte ou mudança de proporção. Fotografias de campanha são ilustrações distintas da identidade oficial.
